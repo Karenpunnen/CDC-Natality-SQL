@@ -19,3 +19,8 @@ at_least_one_abnormality_checked.sql
 5. What is the average Number of Prenatal visits given that the baby suffers from a congenital disease?
 avg_no_of_prenatalvisits.sql
 ![image](https://user-images.githubusercontent.com/100943963/156816104-1cc1d442-f6ed-4194-96df-04bd7ef3f2d2.png)
+
+6. What is the average age of mothers of different races in the US?
+avg_age_mother_race.sql
+![image](https://user-images.githubusercontent.com/100943963/156816624-250b7cd4-d696-4fe8-858c-39fe814929b6.png)
+![image](https://user-images.githubusercontent.com/100943963/156816670-1e0541f4-cba1-4d37-b12a-472ff8e9a4fa.png)
