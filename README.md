@@ -25,5 +25,5 @@ avg_age_mother_race.sql
 ![image](https://user-images.githubusercontent.com/100943963/156816624-250b7cd4-d696-4fe8-858c-39fe814929b6.png)
 ![image](https://user-images.githubusercontent.com/100943963/156816670-1e0541f4-cba1-4d37-b12a-472ff8e9a4fa.png)
 
-7. 
+7. List of counties where pre preganancy BMI is high and at least one abnormality is checked in babies.
 pre_pregnancy_BMI_abnormality.sql
