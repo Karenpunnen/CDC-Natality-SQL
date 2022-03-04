@@ -15,3 +15,7 @@ highest_number_of_births.sql
 4.How many counties where at least one abnormality has been checked?
 at_least_one_abnormality_checked.sql
 ![image](https://user-images.githubusercontent.com/100943963/156815596-022d1156-ac66-454c-8933-d1342da463fa.png)
+
+5. What is the average Number of Prenatal visits given that the baby suffers from a congenital disease?
+avg_no_of_prenatalvisits.sql
+![image](https://user-images.githubusercontent.com/100943963/156816104-1cc1d442-f6ed-4194-96df-04bd7ef3f2d2.png)
