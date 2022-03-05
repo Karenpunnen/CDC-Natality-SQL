@@ -37,3 +37,6 @@ Abnormalities_Maternal_morbidity.sql
 Congenital_Maternal_Morbidity.sql
 ![image](https://user-images.githubusercontent.com/100943963/156886388-36943e23-0de8-4b91-b907-786bbe23fea8.png)
 
+10. What are the number of babies suffering from both congenital and abnormal conditions?
+
+![image](https://user-images.githubusercontent.com/100943963/156887975-85c03523-6691-4192-89bf-e6e3cc140c03.png)
