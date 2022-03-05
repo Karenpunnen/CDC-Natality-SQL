@@ -30,4 +30,5 @@ pre_pregnancy_BMI_abnormality.sql
 ![image](https://user-images.githubusercontent.com/100943963/156820880-8ab3f685-588d-40eb-b4c9-65ee7e47eadf.png)
 
 8. What is the frequency of abnormalities checked on the basis of maternal morbidity?
+Abnormalities_Maternal_morbidity.sql
 ![image](https://user-images.githubusercontent.com/100943963/156885946-aa77a615-1737-45f3-9066-6c819216d3cf.png)
